@@ -20,7 +20,7 @@
 
 ![eeee](https://github.com/costanga/clang/assets/113983413/2bdda033-c350-4569-8b85-08cfa1c7de5d)
 
-그 다음 라이브러리를 만들어야된다
+그 다음 라이브러리를 만들어야됩니다
 cl/c를 이용해 add와 cal의 코드를 생성한 후 mymath.lib라는 이름의 라이브러리를 만들고 그 안에 코드를 넣는다
 
 ![fffff](https://github.com/costanga/clang/assets/113983413/b516f230-cf71-4c7a-987d-34a785512608)
