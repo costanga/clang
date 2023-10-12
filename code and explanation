@@ -1,0 +1,20 @@
+우선 디렉터리를 만든후 만든 디렉터리로 바꿔줍니다 
+그 후 노트패드로 자기가 원하는 코드를 노트패드를 열어서 적은 후 만든 디렉터리 파일위치에 저장합니다
+![aaa](https://github.com/costanga/clang/assets/113983413/7432b608-4dd5-4087-8ea8-4d08f1a5fa1a)
+
+노트패드 내용
+![abc](https://github.com/costanga/clang/assets/113983413/a3b78e6d-102c-4f68-9039-57dad0f47cc7)
+![bbb](https://github.com/costanga/clang/assets/113983413/fadf0864-e45c-4a37-903b-114b9c0b447f)
+
+그 이후 cl /c*.c로 코드를 생성합니다
+![ccc](https://github.com/costanga/clang/assets/113983413/e0686455-1928-4824-ad29-ed6753e9cbee)
+
+그 후 add와 cal을 연결해줍니다
+![ddd](https://github.com/costanga/clang/assets/113983413/514c5949-0c3c-4ce7-bea9-14561ef7fd3e)
+
+이렇게 하면 add를 실행했으러때 값이 제대로 나오는것을 확인할 수 있다
+![eeee](https://github.com/costanga/clang/assets/113983413/051d35c6-6c67-41b3-8201-aa4b122ea52e)
+
+그 다음 라이브러리를 만들어야된다
+cl/c를 이용해 add와 cal의 코드를 생성한 후 mymath.lib라는 이름의 라이브러리를 만들고 그 안에 코드를 넣는다
+![fffff](https://github.com/costanga/clang/assets/113983413/781f951a-6d9e-4be5-899a-be5e590877ff)
